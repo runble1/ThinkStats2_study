@@ -1,1 +1,1 @@
-# ThinkStats2_study
+# Think Stats プログラマのための統計入門
